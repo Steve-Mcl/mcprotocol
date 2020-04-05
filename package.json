@@ -1,15 +1,15 @@
 {
   "name": "mcprotocol",
   "description": "Routine to communicate with Mitsubishi FX3U PLCs",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": {
     "name": "Steve-Mcl",
     "email": "44235289+Steve-Mcl@users.noreply.github.com"
   },
   "contributors": [
     {
-    "name": "Dana Moffit",
-    "email": "nodejsplc@gmail.com"
+        "name": "Dana Moffit",
+        "email": "nodejsplc@gmail.com"
       }
   ],
   "keywords": [
