@@ -10,7 +10,9 @@
     "MC",
     "FX3U",
     "PLC",
-    "Mitsubishi"
+    "Mitsubishi",
+    "MC PROTOCOL",
+    "MELSEC"
   ],
   "repository": {
     "type": "git",
