@@ -19,9 +19,6 @@
     "url": "https://github.com/plcpeople/mcprotocol"
   },
   "main": "mcprotocol.js",
-  "dependencies": {
-    "underscore": "1.4.x"
-  },
   "engine": "node 0.10.x",
   "readmeFilename": "README.md",
   "bugs": {
